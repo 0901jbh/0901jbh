@@ -48,7 +48,6 @@ Backend
  </h3>
    <Br>
   <p>
-   <img src="https://img.shields.io/badge/JUnit5-25A162?&style=for-the-badge&logo=Junit5&logoColor=white">  
    <img src="https://img.shields.io/badge/C-001E9A.svg?&style=for-the-badge&logo=C&logoColor=white">
    <img src="https://img.shields.io/badge/C++-CC0000?&style=for-the-badge&logo=C++&logoColor=white">
    <img src="https://img.shields.io/badge/pyhton-00599C?&style=for-the-badge&logo=python&logoColor=white">
@@ -66,6 +65,7 @@ Backend
    <img src="https://img.shields.io/badge/Kotlin-3CBDB1?&style=for-the-badge&logo=Kotlin&logoColor=white">
    <img src="https://img.shields.io/badge/MariaDB-1572B6?&style=for-the-badge&logo=mariadb&logoColor=white">
    <img src="https://img.shields.io/badge/linux-00B1E7?&style=for-the-badge&logo=linux&logoColor=white">
+   <img src="https://img.shields.io/badge/JUnit5-25A162?&style=for-the-badge&logo=Junit5&logoColor=white">  
    <img src="https://img.shields.io/badge/Apache Tomcat-00C4CC?&style=for-the-badge&logo=ApacheTomcat&logoColor=white">
    <img src="https://img.shields.io/badge/Figma-4574E0?&style=for-the-badge&logo=figma&logoColor=white">
    <img src="https://img.shields.io/badge/adobexd-7ED321?&style=for-the-badge&logo=adobexd&logoColor=white">
