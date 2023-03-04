@@ -81,7 +81,7 @@ Backend
 ### 🏆 BOJ(Baekjoon Online Judge) Record
  <Br>
   
- <a href="https://solved.ac/jbh"><img src="http://mazassumnida.wtf/api/generate_badge?boj=jbhjbh"></a>
+ <a href="https://solved.ac/jbhjbh"><img src="http://mazassumnida.wtf/api/generate_badge?boj=jbhjbh"></a>
 - 백준 골드 문제 위주로 학습
  
 <Br>
