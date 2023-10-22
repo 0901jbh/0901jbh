@@ -9,7 +9,7 @@
 <Br>
 
 ## :sassy_man:  About me
-- 📒 SSAFY 8기 교육생(22.07.13 ~ )
+- 📒 SSAFY 8기 교육생(22.07.13 ~ 23.6.30)
 - 🏃 Backend Engineer / project Deployer
 - 🆕 새로운 기술과 내용 학습에 흥미를 느끼는 개발자
 - 🎯 목표를 설정하고 끝까지 이뤄내기
@@ -31,7 +31,7 @@ Backend
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/flutter-83B81A?style=for-the-badge&logo=flutter Code&logoColor=white">  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">  <img src="https://img.shields.io/badge/flutter-83B81A?style=for-the-badge&logo=flutter Code&logoColor=white">  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 
 **Dev-Ops**
 
